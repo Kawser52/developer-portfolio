@@ -8,6 +8,7 @@ h1,p,h3{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .header-section{
     background-image: url(img/top-banner.png);
